@@ -1,4 +1,4 @@
-# Projet-base-de-donn-es-MYSQL-C-
+# Projet-base-de-donnees-MYSQL-Csharp
 Dans le cadre de notre projet d'informatique scientifique, nous avons modélisé notre base de données MySQL pour une application de gestion de vente de fleurs en ligne. Nous avons créé plusieurs tables pour stocker les informations nécessaires.
 
 
